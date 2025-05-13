@@ -20,10 +20,10 @@ This code is based on the YOLO11 network, and integrates the MLCA attention mech
    - According to the data storage format of YOLO place it in the dateset directory.
 
 4. **Check and Update Paths**:
-   - Please modify the data storage path in ('./ultralytics/sfg/datasets/kitti.yaml') according to where you store the Kitti dataset.
+   - Please modify the data storage path in './ultralytics/sfg/datasets/kitti.yaml' according to where you store the Kitti dataset.
 
 5. **Run the train-kitti.py**:
-   - Open the ('train-kitti.py'), adjust the parameters and run to start training.
+   - Open the 'train-kitti.py', adjust the parameters and run to start training.
 
 
 ## Notes
