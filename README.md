@@ -39,7 +39,7 @@ This code is based on the YOLO11 network, and integrates the MLCA attention mech
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for providing the YOLO11 model.
 - [Kaggle](https://www.kaggle.com/datasets/shreydan/kitti-dataset-yolo-format?select=labels) for the data.
-- [MLCA](https://www.sciencedirect.com/science/article/abs/pii/S0952197623006267) [WIoUv3](https://arxiv.org/abs/2301.10051)for the improvement ideas.
+- [MLCA](https://www.sciencedirect.com/science/article/abs/pii/S0952197623006267), [WIoUv3](https://arxiv.org/abs/2301.10051) for the improvement ideas.
 
 ## Contact
 
